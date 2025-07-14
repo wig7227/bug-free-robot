@@ -59,15 +59,13 @@ NeighFund는 지역 문제 해결을 위한 사회서비스형 커뮤니티 플�
 
 ## 🛠 기술 스택
 
-**Frontend**: React, JavaScript, HTML5, CSS3, React Router, Context API
-**Database**: MySQL
-**Deploy & Tools**: GitHub, Notion, Figma
+**Frontend**: React, JavaScript, HTML5, CSS3, React Router, Context API <br>
+**Database**: MySQL <br>
+**Deploy & Tools**: GitHub, Notion, Figma <br>
 
 ---
 
 ## 📫 연락처
-
-프로젝트나 협업에 관심이 있으시면 언제든 연락주세요!
 
 - **Email**: wig7227@naver.com
 - **GitHub**: https://github.com/wig7227
