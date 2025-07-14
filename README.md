@@ -75,11 +75,16 @@
 **Deploy & Tools**: GitHub, Notion, Figma
 
 **시연 화면**
-
-<img width="1899" height="911" alt="image" src="https://github.com/user-attachments/assets/55b07f7a-e7c0-4bd2-9a3e-67b8aa9fdaa1" />
-<img width="1884" height="902" alt="image" src="https://github.com/user-attachments/assets/b39c079c-191c-49b8-b2d6-4f2f56ab5305" />
-<img width="1880" height="908" alt="image" src="https://github.com/user-attachments/assets/10b72445-411d-4dce-aeee-b412db8b911b" />
-<img width="1194" height="884" alt="image" src="https://github.com/user-attachments/assets/c876ef68-0b0c-4f28-8e43-cf220adea86f" />
+<table>
+  <tr>
+    <td><img width="1899" height="911" alt="image" src="https://github.com/user-attachments/assets/55b07f7a-e7c0-4bd2-9a3e-67b8aa9fdaa1" /></td>
+    <td><img width="1884" height="902" alt="image" src="https://github.com/user-attachments/assets/b39c079c-191c-49b8-b2d6-4f2f56ab5305" /></td>
+  </tr>
+  <tr>
+    <td><img width="1880" height="908" alt="image" src="https://github.com/user-attachments/assets/10b72445-411d-4dce-aeee-b412db8b911b" /></td>
+    <td><img width="1194" height="884" alt="image" src="https://github.com/user-attachments/assets/c876ef68-0b0c-4f28-8e43-cf220adea86f" /></td>
+  </tr>
+</table>
 
 
 ---
