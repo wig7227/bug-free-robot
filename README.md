@@ -53,7 +53,7 @@ https://blog.naver.com/wig7227/223895029044
 <br><br>
 
 ---
-🧩 **NeighFund**
+🧩 [**NeighFund**][(https://github.com/username/neighfund)](https://github.com/Bumjun-hub/Project_NeighFund)
 
 "펀딩과 소모임으로 실현하는 지역 공동체 플랫폼"<br>
 NeighFund는 지역 문제 해결을 위한 사회서비스형 커뮤니티 플랫폼입니다.<br>
